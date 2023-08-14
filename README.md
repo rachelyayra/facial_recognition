@@ -1,7 +1,10 @@
-# object-detectors
-Welcome to the repository for object detection models that I've been working on! In this project, I've developed and fine-tuned several object detection models using OpenCV and Dlib libraries. These models are designed to accurately identify and locate objects within images or videos, making them highly useful for a wide range of computer vision tasks.
+# Object Detection Models Repository
 
-- Face dectector - Here, I used the Dlib library to detect the number of faces from an image.
-- Feature Extraction - This is a full end-to-face detection program with OpenCV and Dlib.
-- Face detector and alignment - In the file, after, I detect the number of faces in the photo, implemented some alignment technologies on the faces.
-- Simple Image Classification Task-
+Welcome to the repository showcasing a collection of object detection programmes developed using OpenCV and Dlib libraries. 
+
+# Models and Features
+
+Face Detector: Leveraging the power of the Dlib library, this model detects faces within image.
+Feature Extraction: A comprehensive end-to-end solution combining OpenCV and Dlib for robust face detection. The integration of these libraries offers a holistic approach to accurately identifying faces.
+Face Detector and Alignment: Building upon the face detection capabilities, this model incorporates alignment technologies to further enhance facial features after detecting faces in an image.
+Simple Image Classification Task: This feature showcases a straightforward yet effective image classification task. The model classifies images of cats and dogs based on their content, demonstrating the project's versatility beyond detection.
