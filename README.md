@@ -1,4 +1,4 @@
-# Object Detection Models Repository
+# Object Detection Programmes Repository
 
 Welcome to the repository showcasing a collection of object detection programmes developed using OpenCV and Dlib libraries. 
 
