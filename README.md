@@ -1,6 +1,6 @@
 # Object Detection Programmes Repository
 
-Welcome to the repository showcasing a collection of object detection programmes developed using OpenCV and Dlib libraries. This project was undertaken in the month of November in order to help me get more comfortable with Computer Vision Tasks. 
+Welcome to the repository showcasing a collection of object detection programmes developed using OpenCV and Dlib libraries. This project was undertaken in the month of November 2021 in order to help me get more comfortable with Computer Vision Tasks. 
 
 # Files and Features
 
